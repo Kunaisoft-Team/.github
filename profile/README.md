@@ -1,6 +1,6 @@
 <img src="https://github.com/Kunaisoft-Team/.github/blob/main/banner-kunaisoft.png" width="100%" alt="Kunaisoft Banner" />
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTF4aWZuODB4NGFmMTBqNHpjNzJ4YXV0enN6cjR1eWxhbmtiZWYwZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xHEPtVlwQ4sJs07clI/giphy.gif" width="100px" />
+  
   <div id="badges">
     <a href="https://www.linkedin.com/company/kunaisoft/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
