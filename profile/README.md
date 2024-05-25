@@ -25,3 +25,14 @@
 ### 🥷 About Us :
 We are a Real Organization from Venezuela of Versatile specialists <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">, but most important we are guys willing to support, protect, respect, appreciate, commit  - Top Rated on Upwork +.
 
+- 🦾 To support is our culture.
+
+- 💚 To protect and always trust and help to our teammates.
+
+- 👌 To respect and think about the time of our teammates and clients.
+
+- 🫂 To be thankful to the opportunites that we can reach as a company.
+
+- ✍️ To be commited with our work.
+
+- :mailbox: How to reach us: [![Linkedin Badge](https://img.shields.io/badge/-kunaisoft-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/company/kunaisoft/)
