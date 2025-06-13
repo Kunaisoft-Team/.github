@@ -1,4 +1,4 @@
-<img src="https://github.com/Kunaisoft-Team/.github/blob/main/banner-kunaisof.png" width="100%" alt="Kunaisoft Banner" />
+<img src="https://github.com/Kunaisoft-Team/.github/blob/main/banner-kunaisoft.png" width="100%" alt="Kunaisoft Banner" />
 <div id="header" align="center">
   
   <div id="badges">
